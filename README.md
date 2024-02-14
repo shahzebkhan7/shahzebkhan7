@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shahzeb Khan
-I'm a tech person interested in full-stack and blockchain
+
 
 
 ## 🌐 Socials:
