@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/shahzebkhan7/shahzebkhan7/blob/main/bannerImg.jpg" alt="Banner" width="100%" />
+</p>
+
+
 # 👋 Hi, I’m Shahzeb Khan
 
 
